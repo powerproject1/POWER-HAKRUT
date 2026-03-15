@@ -1,4 +1,4 @@
-[15.03.2026 13:43] #𝓟𝓞𝓦𝓔𝓡𝓜𝓞𝓓 POWERLAY ᛜᛄᛄᛋᛪⰓᛁᚤᚳ: `html
+ #𝓟𝓞𝓦𝓔𝓡𝓜𝓞𝓓 POWERLAY ᛜᛄᛄᛋᛪⰓᛁᚤᚳ: `html
 <!DOCTYPE html>
 <html lang="ru">
 <head>
@@ -164,8 +164,7 @@
             cursor: pointer;
             transition: all 0.3s;
             font-weight: 500;
-        }
-[15.03.2026 13:43] #𝓟𝓞𝓦𝓔𝓡𝓜𝓞𝓓 POWERLAY ᛜᛄᛄᛋᛪⰓᛁᚤᚳ: .quick-btn:hover {
+        𝓟𝓞𝓦𝓔𝓡𝓜𝓞𝓓 POWERLAY ᛜᛄᛄᛋᛪⰓᛁᚤᚳ: .quick-btn:hover {
             border-color: var(--primary);
             background: var(--primary);
             color: white;
@@ -326,7 +325,7 @@
             font-size: 2rem;
             font-weight: bold;
         }
-[15.03.2026 13:43] #𝓟𝓞𝓦𝓔𝓡𝓜𝓞𝓓 POWERLAY ᛜᛄᛄᛋᛪⰓᛁᚤᚳ: .result-label {
+#𝓟𝓞𝓦𝓔𝓡𝓜𝓞𝓓 POWERLAY ᛜᛄᛄᛋᛪⰓᛁᚤᚳ: .result-label {
             font-size: 0.9rem;
             opacity: 0.9;
         }
